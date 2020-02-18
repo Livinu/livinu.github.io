@@ -1,16 +1,22 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Livinus TUYISENGE Bio
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Livinus TUYISENGE. I have Ph.D in Computer Sciences, from University of Reims Champagne-Ardenne in France:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I like Coding and Learning new things
+- I like Entrepreunrship
 
 What else do you need?
 
-### my history
+### Education
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+In 2019 I received my **Ph.D** in Computer Science from **University of Reims Champagne Ardenne, Reims, France**
+In 2016 I received my **Master Degree** from **UTBM**, Belfort,France.
+
+### Awards
+In 2017, I get certified by Google as **Google Associate Android Developer** [certificate](http://bcert.me/ssnjicmh).
+I was menber of second winner in the Cisco Hachathon on Citizen Bots, in Paris [Hackathon](https://www.youtube.com/watch?v=j78mH7DHVuc)
+
