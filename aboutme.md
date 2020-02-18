@@ -19,8 +19,8 @@ My Research interest are:
 
 ### Education
 
-In 2019 I received my **Ph.D** in Computer Science from **University of Reims Champagne Ardenne, Reims, France**
-In 2016 I received my **Master Degree** from **UTBM**, Belfort,France.
+- In 2019 I received my **Ph.D** in Computer Science from **University of Reims Champagne Ardenne, Reims, France**
+- In 2016 I received my **Master Degree** from **UTBM**, Belfort,France.
 
 ### Awards
 - In 2017, I get certified by Google as **Google Associate Android Developer** [certificate](http://bcert.me/ssnjicmh).
